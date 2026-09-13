@@ -40,9 +40,8 @@ tasktracker/
 ├── main.py              # Ponto de entrada da aplicação
 ├── tasks.py             # Lógica de manipulação das tarefas
 ├── storage.py           # Camada de persistência de dados
-├── data/
-│   └── tasks.json        # Arquivo de armazenamento das tarefas
-├── requirements.txt      # Dependências do projeto
+├── Docs/
+│   └── Planejamento Lógico       # Documento do planejamento do projeto
 └── README.md             # Documentação do projeto
 ```
 
