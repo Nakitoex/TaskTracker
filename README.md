@@ -58,35 +58,6 @@ tasktracker/
 
 ### Passo a passo
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/tasktracker.git
-   ```
-
-2. Acesse o diretório do projeto:
-   ```bash
-   cd tasktracker
-   ```
-
-3. (Opcional) Crie um ambiente virtual:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # Linux/Mac
-   venv\Scripts\activate      # Windows
-   ```
-
-4. Instale as dependências (caso existam):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. Execute a aplicação:
-   ```bash
-   python main.py
-   ```
-
----
-
 ## 💻 Exemplo de Uso
 
 ```
