@@ -45,10 +45,6 @@ tasktracker/
 └── README.md             # Documentação do projeto
 ```
 
-> A estrutura acima é uma referência; ajuste conforme a organização real dos arquivos do repositório.
-
----
-
 ## 🚀 Como Executar
 
 ### Pré-requisitos
