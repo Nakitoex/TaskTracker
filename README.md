@@ -37,8 +37,8 @@ Este projeto foi desenvolvido como parte de uma avaliação acadêmica, com foco
 ```
 tasktracker/
 │
-├── main.py              # Ponto de entrada da aplicação
-├── tasks.py             # Lógica de manipulação das tarefas
+├── src/
+│  └── main.py              # Ponto de entrada da aplicação
 ├── storage.py           # Camada de persistência de dados
 ├── Docs/
 │   └── Planejamento Lógico       # Documento do planejamento do projeto
