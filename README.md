@@ -44,12 +44,32 @@ tasktracker/
 │   └── Planejamento Lógico       # Documento do planejamento do projeto
 └── README.md             # Documentação do projeto
 ```
-
-## 🚀 Como Executar
-
 ### Pré-requisitos
 
 - Python 3.8 ou superior instalado na máquina
+
+## 🚀 Como Executar
+
+## 🐳 Docker
+
+**Pré-requisito:** Docker instalado.
+
+Como construir a imagem:
+```bash
+docker build -t tasktracker .
+```
+
+Como rodar o container em modo isolado:
+```bash
+docker run -it --rm tasktracker
+```
+
+Como rodar via orquestração (Recomendado):
+```bash
+docker compose run --rm tasktracker
+```
+
+
 
 ### Passo a passo
 
