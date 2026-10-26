@@ -21,7 +21,6 @@ Este projeto foi desenvolvido como parte de uma avaliação acadêmica, com foco
 - ✏️ Editar/atualizar uma tarefa existente
 - ✅ Marcar tarefas como concluídas
 - ❌ Remover tarefas
-- 💾 Persistência de dados (armazenamento local)
 
 ---
 
@@ -39,7 +38,6 @@ tasktracker/
 │
 ├── src/
 │  └── main.py              # Ponto de entrada da aplicação
-├── storage.py           # Camada de persistência de dados
 ├── Docs/
 │   └── Planejamento Lógico       # Documento do planejamento do projeto
 └── README.md             # Documentação do projeto
