@@ -69,10 +69,6 @@ Como rodar via orquestração (Recomendado):
 docker compose run --rm tasktracker
 ```
 
-
-
-### Passo a passo
-
 ## 💻 Exemplo de Uso
 
 ```
